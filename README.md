@@ -6,6 +6,7 @@ Let's see how Bitwise Operators works in Solidity
 ## Basically, these bitwise operators include:
   * Bitwise AND &
   * Bitwise OR  |
+  * Bitwise NOT ~
   * Bitwise Exclusive OR ^
   * Bitwise SHIFT operators
     * LEFT SHIFT  <<
